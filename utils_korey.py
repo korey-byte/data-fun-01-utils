@@ -21,7 +21,7 @@ byline: str = '2K Sales LLC: Reasonably priced shoes by a reasonable seller'
 #############################
 
 def get_byline() -> str:
-    ''Return a byline for my analytics project.''
+    '''Return a byline for my analytics project.'''
     return byline
     
 #############################
