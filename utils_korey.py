@@ -53,6 +53,10 @@ Is Best Company Ever: (is_best_company_ever}
 Years in Biness: (years_in_biness)
 Skills Semi Mastered: (skills_semi_mastered)
 Koreys Pretty Good Homework Scores: (koreys_pretty_good_homework_scores)
+Minimum Pretty Good Homework Scores: {min_score}
+Maximum Pretty Good Homework Scores:{max_score}
+Mean Pretty Good Homework Scores: {mean_score:.2f}
+Standard Deviation of Pretty Good Homework Scores:{stdev_score:.2f}
 """
 
 ###########################################
